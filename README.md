@@ -5,7 +5,10 @@ This project using the calliope project to integrate Cassandra and spark. This h
 
 http://tuplejump.github.io/calliope/
 
-First you will need to populate the Cassandra cluster with data from https://github.com/PatrickCallaghan/datastax-storm-cql3-demo
+
+First start an instance of Cassandra locally. Then you will need to populate the Cassandra cluster with data from
+	
+	https://github.com/PatrickCallaghan/datastax-storm-cql3-demo
 
 To run this example run the following
 
