@@ -10,6 +10,8 @@ First start an instance of Cassandra locally. Then you will need to populate the
 	
 	https://github.com/PatrickCallaghan/datastax-storm-cql3-demo
 
+Follow the README in the datastax-storm-cql3-demo project to create the schema and populate the data.
+
 To run this example run the following
 
 	mvn install exec:java -Dexec.mainClass=com.datastax.spark.RiskSensitivityFilter
